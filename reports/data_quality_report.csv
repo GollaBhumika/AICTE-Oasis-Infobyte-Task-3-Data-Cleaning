@@ -1,0 +1,13 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Duplicate_Rows
+Employee_ID,object,0,0.0,0
+First_Name,object,0,0.0,0
+Last_Name,object,0,0.0,0
+Age,float64,211,20.69,0
+Department_Region,object,0,0.0,0
+Status,object,0,0.0,0
+Join_Date,object,0,0.0,0
+Salary,float64,24,2.35,0
+Email,object,0,0.0,0
+Phone,int64,0,0.0,0
+Performance_Score,object,0,0.0,0
+Remote_Work,bool,0,0.0,0
